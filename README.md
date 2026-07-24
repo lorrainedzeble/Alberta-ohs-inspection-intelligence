@@ -2,6 +2,8 @@
 
 Decision-support tooling that turns Alberta's employer-level injury and enforcement records into a governed quarterly workflow:
 
+**[Open the live dashboard](https://lorrainedzeble.github.io/Alberta-ohs-inspection-intelligence/)** · [View the portfolio](https://lorrainedzeble.github.io/)
+
 1. **Where should attention go?** Scan 302 industries for worsening injury trends or recent fatalities.
 2. **Which employers warrant review?** Back-test and rank employers within an analyst-confirmed industry.
 3. **What should an officer know before a visit?** Produce a source-cited employer briefing.
